@@ -1,0 +1,37 @@
+        h1{
+            color: lightcoral;
+            border: 10px solid dimgray;
+            background-color: dimgrey;
+        }
+        body{
+            background-color: #ffffcc;
+        }
+        img{
+            border: 3px solid black;
+        }
+        p{
+            font-family: comic sans ms;
+            font-weight: italic;
+        }
+        ol,ul{
+            font-family: comic sans ms;
+        }
+
+        
+        .Header{
+            background-color:#ddff80;
+            display: flex;
+            justify-content: space-between;
+        }
+        .grid{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        p,h2{
+            text-align: center;
+        }
+        
+        body{
+            background-color:#aabbcc;
+        }
